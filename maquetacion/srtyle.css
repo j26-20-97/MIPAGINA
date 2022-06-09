@@ -1,0 +1,36 @@
+body{
+    background-color: blanchedalmond;
+}
+.encabezado{
+    background-color: rgb(214, 231, 231);
+}
+.titulo{
+    font-size: 2rem; 
+    color: rgb(29, 28, 31);
+    text-align: left;
+}
+.parrafo-1{ 
+    font-size: 1.5rem;
+    text-align: left;
+}
+.parrafo-2{
+    font-size: 1.5rem;
+    text-align: left;
+}
+.parrafo3{
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+
+.subtitulo{
+    font-size: 2.5rem;
+    text-align: left;
+}
+
+.pie-de-pagina-1{
+    background-color: aqua;
+}
+.pie-de-pagina{
+    text-align: left;
+}
